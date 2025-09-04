@@ -1,4 +1,5 @@
-criei o printef
+#include <stdio.h>
+#include <stdalign.h>
 //         PROJETO WAR ESTRUTURADO - DESAFIO DE CÓDIGO
 // ============================================================================
 //        
